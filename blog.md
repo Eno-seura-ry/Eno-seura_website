@@ -1,6 +1,8 @@
 ---
+layout: blog
 title: Blog
+slug: /blog
 ---
-# Blog page
 
-This page is a Blog
+This is an example of a "Blog" page, displaying a list of posts.
+<br />

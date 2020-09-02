@@ -41,6 +41,15 @@ header:
     - name: Blog  # <-- blog.md
     - name: Whatever  # <-- whatever.md
 
+footer:
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: yourmail@domain.com
+  follow:
+    - name: Facebook
+      link: http://facebook.com/YourFacebookUsername
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
