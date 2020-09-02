@@ -33,6 +33,7 @@ github_username:  jekyll
 theme: bay_jekyll_theme
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 header:
   pages:
