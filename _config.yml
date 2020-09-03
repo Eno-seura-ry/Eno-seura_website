@@ -40,7 +40,7 @@ header:
       slug: /     # <-- index.md
     - name: Toiminta  # <-- toiminta.md
     - name: Historia  # <-- historia.md
-    - name: Ota yhteyttä  # <-- ota_yhteytta.md
+    - name: Yhteystiedot  # <-- yhteystiedot.md
     - name: Sijainti  # <-- sijainti.md
 
 footer:
