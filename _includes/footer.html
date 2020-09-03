@@ -2,30 +2,32 @@
   <div class="wrapper">
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1 social-links">
-        <h4>CONTACT</h4>
-
-        {% for contact in site.footer.contact %}
-
-          {% assign contact_icon_path = "/assets/img/icons/" | append: contact.name | downcase | append: ".png" | absolute_url %}
-          <img
-            src="{{ contact_icon_path }}"
-            alt="{{ contact.name | downcase }}"
-          />
-          <a href="{{ contact.link }}" id="{{ contact.name | downcase }}-link">
-            {% if contact.value and contact.value != "" and contact.value != nil %}
-              {{ contact.value }}
-            {% else %}
-              {{ contact.name }}
-            {% endif %}
-          </a>
-          <br />
-
-        {% endfor %}
+        <h4>Eno-seura ry</h4>
+        <p id="osoitetiedot">Alapappilantie 3<br> <! –– TODO postiosoite vai museon osoite? ––> 
+          81200 Eno</p>
+        <h4>Y-tunnus 0904627-5</h4>
+        
       </div>
 
       <div class="footer-col footer-col-2 social-links">
-        <h4>FOLLOW</h4>
+        
+        {% for contact in site.footer.contact %}
 
+        {% assign contact_icon_path = "/assets/img/icons/" | append: contact.name | downcase | append: ".png" | absolute_url %}
+        <img
+          src="{{ contact_icon_path }}"
+          alt="{{ contact.name | downcase }}"
+        />
+        <a href="{{ contact.link }}" id="{{ contact.name | downcase }}-link">
+          {% if contact.value and contact.value != "" and contact.value != nil %}
+            {{ contact.value }}
+          {% else %}
+            {{ contact.name }}
+          {% endif %}
+        </a>
+        <br />
+
+      {% endfor %}
         {% for follow in site.footer.follow %}
           <span class="wrap-link">
 
