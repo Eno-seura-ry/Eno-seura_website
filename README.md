@@ -1,2 +1,2 @@
 # Eno-seura-website
-Demo static website for Eno-seura ry.
+Demo website for Eno-seura ry. Made with Jekyll static site generator.
