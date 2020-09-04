@@ -1,2 +1,2 @@
 # Eno-seura-website
-Demo website for Eno-seura ry
+Demo static website for Eno-seura ry.
