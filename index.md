@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: assets\img\home_0.jpg
+  src: assets/img/home_0.jpg
   alt: Enon kotiseutumuseo
 ---
 # Enon kyydissä
