@@ -85,6 +85,8 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 .footer-col-1, .footer-col-2, .footer-col-3 { width: -webkit-calc(33% - (30px / 2)); width: calc(33% - (30px / 2)); }
 
+.footer-col-3 img.footer-img { max-width: 60px; margin: 5px; } 
+
 .powered-by { font-size: 13px; color: #635b5b; }
 
 #osoitetiedot { line-height: normal; font-weight: 300; font-family: "Futura", sans-serif; }
