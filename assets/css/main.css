@@ -11,7 +11,9 @@ h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure { margin-bottom: 
 img { max-width: 100%; vertical-align: middle; height: auto; }
 
 /** Figures */
-figure > img { display: block; }  
+figure > img { display: block; } 
+img.caption { float: right; border: #ccc 1px solid; margin-left: 20px; }
+@media screen and (max-width: 500px) { figure { float: none; margin-bottom: 20px; margin-left: 0px; } } 
 
 figcaption { font-size: 12.25px; } 
 
@@ -96,9 +98,6 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .page-content { padding: 30px 0; }
 
 .page-heading { font-size: 20px; }
-
-.profilepic { float: right; border: #ccc 1px solid; margin-left: 20px; }
-@media screen and (max-width: 500px) { .profilepic { float: none; margin-bottom: 20px; margin-left: 0px; } }
 
 .social-links { font-size: 13px; line-height: 30px; }
 @media screen and (max-width: 500px) { .social-links { font-size: 14px; line-height: 38px; } }

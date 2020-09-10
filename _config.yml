@@ -34,6 +34,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-remote-theme
+  - jekyll-figure
 
 header:
   pages:
@@ -49,6 +50,7 @@ footer:
   contact:
     - name: Email
       value: enoseura@gmail.com
+      link: mailto:enoseura@gmail.com
   follow:
     - name: Facebook
       link: https://www.facebook.com/enoseura/
