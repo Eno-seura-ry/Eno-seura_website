@@ -3,7 +3,7 @@ layout: home
 ---
 # Enon kyydissä
 
-{% figure [caption:"[Enon kotiseutumuseo löytyy vanhasta viljamakasiinista](/Eno-seura_website/sijainti)"] [class:"caption"] %}
+{% figure [caption:"[Enon kotiseutumuseo löytyy vanhasta viljamakasiinista](/Eno-seura_website/sijainti)"] [class:"figure-index"] %}
 [![Enon kotiseutumuseo](assets/img/home_0.jpg)](/Eno-seura_website/sijainti)
 {% endfigure %}
 
