@@ -1,6 +1,11 @@
 ---
 title: Historia
 ---
+
+{% figure caption:"Näkymä Enon Kaltimojärven yli Vanhassa Kaltimossa." [class:"figure-historia"] %}
+![Maisemakuva Kaltimojärvestä](assets/img/historia_1.jpg)
+{% endfigure %}
+
 # Historiaa ja nykypäivää!
 Vuoteen 2009 itsenäisen Enon kunnan alue sijaitsee Pielisjoen yläjuoksulla Pielisen kainalossa Pohjois-Karjalassa. Enon alue on nykyisin Joensuun kaupunkiin kuuluva luonnonkaunis ja virkeä taajama. Enossa on kaksi yli 1 000:n asukkaan taajamaa: Enon kirkonkylä ja teollisuuskeskus Uimaharju. Yhdistyessään Joensuuhun Enon, Pohjois-Karjalan teollistuneimman kunnan, väkiluku oli noin 6 500. Enon kirkonkylästä Joensuun keskustaan on noin puolen tunnin auto- ja junamatka. Kahden päätaajaman lisäksi Enossa on useita kyliä. Suurimpia näistä ovat Louhiojan ja Ukkolan kylät. 
 
