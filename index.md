@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# Enon kyydissä TESTI
+# Enon kyydissä
 
 {% figure [caption:"[Enon kotiseutumuseo löytyy vanhasta viljamakasiinista](/Eno-seura_website/sijainti)"] [class:"figure-index"] %}
 [![Enon kotiseutumuseo](assets/img/home_0.jpg)](/Eno-seura_website/sijainti)
