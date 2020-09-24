@@ -153,7 +153,7 @@ pre > code {
   border: 0;
   padding-right: 0;
   padding-left: 0;
-}
+} 
 
 /** Wrapper */
 .wrapper {
@@ -316,15 +316,14 @@ pre > code {
 
 .footer-col-3 img.footer-img {
   max-width: 60px;
-  margin: 5px;
-}
+  margin: 5px; 
+}  
 
 .powered-by {
   font-size: 13px;
   color: #635b5b;
 }
-
-#osoitetiedot {
+.osoitetiedot {
   line-height: normal;
   font-weight: 300;
   font-family: "Futura", sans-serif;
@@ -529,9 +528,9 @@ div.footnotes {
   border-radius: 5px;
 }
 .draft-banner a {
-  color: #330000;
+  color: #330000; 
 }
-
+ 
 .not-found-container {
   margin: 10px auto;
   max-width: 600px;
@@ -543,4 +542,8 @@ h1.not-found-title {
   font-size: 4em;
   line-height: 1;
   letter-spacing: -1px;
+}
+
+.yhteystiedot {
+  font-family: Charter, Georgia, Helvetica, Arial, sans-serif;
 }

@@ -43,13 +43,14 @@ header:
     - name: Toiminta  # <-- toiminta.md
     - name: Historia  # <-- historia.md
     - name: Yhteystiedot  # <-- yhteystiedot.md
-    - name: Sijainti  # <-- sijainti.md
+    - name: Kotiseutumuseo  # <-- kotiseutumuseo.md
 
 footer:
   show_powered_by: true
   contact:
     - name: Email
       value: enoseura@gmail.com
+      link: mailto:enoseura@gmail.com
   follow:
     - name: Facebook
       link: https://www.facebook.com/enoseura/
