@@ -19,7 +19,8 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   # Remote theme to fix GitHub hosting problems
   gem "jekyll-remote-theme"
-  gem 'jekyll-figure'
+  gem "jekyll-figure"
+  gem "jekyll-leaflet"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

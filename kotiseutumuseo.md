@@ -14,5 +14,13 @@ Alapappilantie 3
 81200 Eno. 
 
 {% comment %}
-TODO aukiolojen viikonpäivät, kellonajat sekä päivämäärät. Puhelinnumero tilaukseen. Karttapalvelun sijaintia varten.
+Karttapalvelun sijaintia varten.
 {% endcomment %}
+
+{% leaflet_map {"zoom" : 17 } %}
+
+    {% leaflet_marker { "latitude" : 62.78748,
+                       "longitude" : 30.15771,
+                       "popupContent" : "Enon kotiseutumuseo"} %}
+
+{% endleaflet_map %}
