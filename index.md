@@ -3,8 +3,8 @@ layout: home
 ---
 # Enon kyydissä
 
-{% figure [caption:"[Enon kotiseutumuseo löytyy vanhasta viljamakasiinista](/Eno-seura_website/kotiseutumuseo)"] [class:"figure-index"] %}
-[![Enon kotiseutumuseo](assets/img/home_0.jpg)](/Eno-seura_website/kotiseutumuseo)
+{% figure [caption:"[Enon kotiseutumuseo löytyy vanhasta viljamakasiinista](/kotiseutumuseo)"] [class:"figure-index"] %}
+[![Enon kotiseutumuseo](assets/img/home_0.jpg)](/kotiseutumuseo)
 {% endfigure %}
 
 Eno-Seura ry. toimii Enossa sivistyksellisten, sosiaalisten ja taloudellisten olojen kehittämiseksi sekä viihtyisyyden lisäämiseksi lähtökohtanaan alueellinen omaleimaisuus ja paikalliset erityispiirteet.
