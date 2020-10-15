@@ -257,11 +257,11 @@ pre > code {
         line-height: 0;
         padding-top: 4px;
         text-align: center;
-        background: #ffffff url("/Eno-seura_website/assets/img/menu.png") 6px
+        background: #ffffff url("/assets/img/menu.png") 6px
             4px no-repeat;
     }
     .site-nav .menu {
-        clear: both;
+        clear: both; 
         display: none;
         background-color: #ffffff;
         min-width: 10em;
@@ -351,7 +351,7 @@ pre > code {
 }
 @media screen and (max-width: 500px) {
     .social-links {
-        font-size: 14px;
+        font-size: 13px;
         line-height: 38px;
     }
 }
@@ -375,7 +375,7 @@ pre > code {
 }
 
 #wechat-widget {
-    display: none;
+    display: none; 
     position: absolute;
     background: #fff;
     border: #ddd 1px solid;
