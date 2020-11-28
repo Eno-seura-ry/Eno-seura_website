@@ -397,7 +397,7 @@ pre > code {
     border: none;
 }
 
-.work-item {
+.work-item {  
     clear: both;
     overflow: hidden;
     padding-bottom: 3em;
