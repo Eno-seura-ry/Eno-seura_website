@@ -277,6 +277,7 @@ DEPENDENCIES
   jekyll-figure
   jekyll-leaflet
   jekyll-remote-theme
+  jekyll-seo-tag
   jekyll-sitemap
   sassc
   tzinfo (~> 1.2)
