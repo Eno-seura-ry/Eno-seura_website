@@ -35,6 +35,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-figure
   - jekyll-leaflet
+  - jekyll-sitemap
 
 header:
   pages:
