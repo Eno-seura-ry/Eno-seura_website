@@ -29,7 +29,7 @@ Y-tunnus 0904627-5
 <br>
 <br>
 
-##### [Enon kotiseutumuseo:](/Eno-seura_website/kotiseutumuseo)
+##### [Enon kotiseutumuseo:](/kotiseutumuseo)
 <p class="osoitetiedot yhteystiedot">Alapappilantie 3<br />
 81200 Eno</p>
 
