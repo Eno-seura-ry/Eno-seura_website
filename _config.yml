@@ -21,9 +21,9 @@
 title: Eno-seura
 email: enoseura@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Eno-Seura ry. toimii Enossa sivistyksellisten, sosiaalisten ja taloudellisten olojen kehittämiseksi sekä viihtyisyyden lisäämiseksi lähtökohtanaan alueellinen omaleimaisuus ja paikalliset erityispiirteet.
-  Yksi seuran näkyvimmistä toimintamuodoista on Enon kotiseutumuseon ja museoalueen ylläpitäminen ja kunnostaminen.
-baseurl: "" # the subpath of your site, e.g. /blog
+  Eno-Seura on Enossa toimiva kotiseutuyhdistys. Yksi seuran toimintamuodoista on Enon kotiseutumuseon ja museoalueen ylläpitäminen ja kunnostaminen.
+# description is too long, max should be about 150 characters
+baseurl: "" # the subpath of your site, e.g. /blog 
 url: "https://www.enoseura.fi" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  kihyvari
 
